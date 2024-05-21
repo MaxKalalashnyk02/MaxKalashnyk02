@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vHtyDueAsteNcI6tuhPIRTs8AkgJuO0z/view](https://drive.google.com/file/d/1vHtyDueAsteNcI6tuhPIRTs8AkgJuO0z/view)
 
-- ⚡ Fun fact **Fun fact**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maksym-kalashnyk-aa1852300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksym-kalashnyk-aa1852300/" height="30" width="40" /></a>
